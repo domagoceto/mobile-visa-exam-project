@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#FF5722</color> <!-- Turuncu (Primary) -->
+    <color name="colorPrimaryDark">#E64A19</color> <!-- Koyu Turuncu -->
+    <color name="colorAccent">#FF5252</color> <!-- Parlak Kırmızı --><color name="custom_red">#FF4500</color>
+    <color name="custom_dark_red">#B22222</color>
+    <color name="custom_orange">#FFA500</color>
+    <color name="custom_white">#FFFFFF</color>
+
+
+    <!-- Arka plan ve metin renkleri -->
+    <color name="backgroundColor">#FFF3E0</color> <!-- Açık Turuncu -->
+    <color name="textColorPrimary">#BF360C</color> <!-- Koyu Kahverengi -->
+    <color name="textColorSecondary">#FF7043</color> <!-- Açık Kırmızımsı Turuncu -->
+    <color name="yemek_listesi_background">#FFF8E7</color> <!-- Açık bej tonu -->
+
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VizeUygulamasi</string>
+    <string name="countdown_initial">5</string>
+    <string name="food_image">Yemek Görseli</string>
+
+
+</resources>

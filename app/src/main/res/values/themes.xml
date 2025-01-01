@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- AppCompat tabanlı bir tema -->
+    <style name="Theme.VizeUygulamasi" parent="Theme.AppCompat.Light">
+        <!-- Renkleri özelleştiriyoruz -->
+        <item name="colorPrimary">@color/colorPrimary</item> <!-- Turuncu -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item> <!-- Koyu Turuncu -->
+        <item name="colorAccent">@color/colorAccent</item> <!-- Parlak Kırmızı -->
+
+        <!-- Arka plan ve metin renklerini tanımlıyoruz -->
+        <item name="android:windowBackground">@color/backgroundColor</item>
+        <item name="android:textColorPrimary">@color/textColorPrimary</item>
+        <item name="android:textColorSecondary">@color/textColorSecondary</item>
+
+        <!-- Genel kontrol renkleri -->
+        <item name="colorControlHighlight">@color/colorAccent</item>
+        <item name="colorControlActivated">@color/colorAccent</item>
+        <item name="colorControlNormal">@color/colorPrimaryDark</item>
+    </style>
+
+</resources>
